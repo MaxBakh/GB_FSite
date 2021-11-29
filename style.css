@@ -394,7 +394,7 @@ body {
   margin-bottom: 64px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
   .container {
     padding-left: 32px;
     padding-right: 32px;
@@ -434,7 +434,7 @@ body {
   }
 }
 
-@media (max-width: 667px) {
+@media (max-width: 767px) {
   .header {
     padding-top: 24px;
   }
